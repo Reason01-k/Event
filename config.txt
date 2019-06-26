@@ -1,0 +1,6 @@
+owner=424989134298415105
+prefix=E
+game=Eplay
+stayinchannel=true
+songinstatus=false
+token=NTkzNTA0MTM5MTk1OTczNjQy.XRO2Fg.186vKPzy7bVZtBz1IrHGKaUg-kk
